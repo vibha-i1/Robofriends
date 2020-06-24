@@ -1,0 +1,18 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	background:linear-gradient(to left, #0f0c29, #302b63, #24243e);
+
+
+
+}
+
+h1{
+	
+	font-family: sans-serif;
+	color: #ACB6E5;
+	font-size: 46px;
+	text-transform: uppercase;
+}
+
